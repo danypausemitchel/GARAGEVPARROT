@@ -1,0 +1,49 @@
+.card-body{
+    background-color: white;
+}
+.card-footer{
+    font-size: 30px;
+}
+.accueil{
+    padding-top: 40px;
+}
+
+#firstRowHomePage{
+    min-height: 50vh;
+    background-position: center;
+}    
+
+.big-text{
+    font-size: 50px;
+    font-weight: bold;
+}    
+
+.text-bienvenue{
+    font-size: 22px;
+}
+
+.Description{
+    max-width: 550px;
+    margin: 15px auto;
+    font-size: 16px;
+}
+
+
+#text-presentation{
+    background-color: #8d7b7bbd;
+    color: white;
+    margin-top: 20px;
+}
+
+.garant{
+    color: red;
+}
+
+.footer-page{
+    background-color: #31692f;
+    padding: 30px;
+}
+
+.horaire{
+    list-style-type: none;
+}
